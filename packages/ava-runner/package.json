@@ -1,0 +1,19 @@
+{
+  "name": "@stryker-mutator/ava-runner",
+  "version": "1.0.0",
+  "description": "A plugin to use the ava test runner in Stryker, the JavaScript mutation testing framework",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "test": "nyc npm run test:all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stryker-mutator/stryker-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stryker-mutator/stryker-js/issues"
+  },
+  "homepage": "https://github.com/stryker-mutator/stryker-js#readme"
+}
