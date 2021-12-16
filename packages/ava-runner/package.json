@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stryker-mutator/stryker-js#readme",
   "dependencies": {
-    "@stryker-mutator/api": "^5.5.1"
+    "@stryker-mutator/api": "^5.5.1",
+    "@stryker-mutator/util": "^5.5.1"
   }
 }
