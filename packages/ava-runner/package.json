@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stryker-mutator/stryker-js/issues"
   },
-  "homepage": "https://github.com/stryker-mutator/stryker-js#readme"
+  "homepage": "https://github.com/stryker-mutator/stryker-js#readme",
+  "dependencies": {
+    "@stryker-mutator/api": "^5.5.1"
+  }
 }
